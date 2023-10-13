@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: 2123051
+Build-Jdk: 17.0.6
+Implementation-Title: RestaurantRegistry
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/RestaurantRegi
+ stry/
+Created-By: Maven Integration for Eclipse
+

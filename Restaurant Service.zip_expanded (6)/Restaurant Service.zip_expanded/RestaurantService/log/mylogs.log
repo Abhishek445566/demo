@@ -1,0 +1,19 @@
+[INFO ] 27-07-2023 03:28:19.311 PM [http-nio-9090-exec-8]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[INFO ] 27-07-2023 03:29:17.489 PM [http-nio-9090-exec-6]  com.restaurant.service.RestaurantServiceImpl - View booking on a particular date is successfully done
+[INFO ] 27-07-2023 03:35:30.906 PM [http-nio-9090-exec-2]  com.restaurant.service.RestaurantServiceImpl - Find star rated customer is successful
+[INFO ] 27-07-2023 03:36:07.357 PM [http-nio-9090-exec-9]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[ERROR] 27-07-2023 04:47:33.854 PM [http-nio-9090-exec-5]  com.restaurant.service.RestaurantServiceImpl - Enter valid mobile number
+[INFO ] 27-07-2023 04:47:45.340 PM [http-nio-9090-exec-1]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[INFO ] 27-07-2023 04:49:37.361 PM [http-nio-9090-exec-8]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[INFO ] 27-07-2023 04:51:59.617 PM [http-nio-9090-exec-4]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[INFO ] 27-07-2023 04:54:33.464 PM [http-nio-9090-exec-3]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[INFO ] 27-07-2023 04:55:55.189 PM [http-nio-9090-exec-9]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[ERROR] 27-07-2023 05:03:50.351 PM [http-nio-9090-exec-1]  com.restaurant.service.RestaurantServiceImpl - Enter valid mobile number
+[INFO ] 27-07-2023 05:04:05.327 PM [http-nio-9090-exec-10]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[INFO ] 27-07-2023 05:04:24.016 PM [http-nio-9090-exec-8]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[INFO ] 27-07-2023 05:05:19.867 PM [http-nio-9090-exec-6]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[INFO ] 27-07-2023 05:05:38.249 PM [http-nio-9090-exec-4]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[INFO ] 27-07-2023 05:06:47.289 PM [http-nio-9090-exec-3]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[INFO ] 27-07-2023 05:06:55.716 PM [http-nio-9090-exec-7]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[INFO ] 27-07-2023 05:11:06.942 PM [http-nio-9090-exec-5]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
+[INFO ] 27-07-2023 05:12:45.803 PM [http-nio-9090-exec-10]  com.restaurant.service.RestaurantServiceImpl - Customer with id 301 booked successfully
